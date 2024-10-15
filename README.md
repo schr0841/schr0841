@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on projects for medical data science and general machine learning
 - 🌱 The programming languages I use often are (mostly) Python, SQL (leetcode and hackerrank medium level) and ISLR-level R
 - 📫 How to reach me: schreitergregory@gmail.com
-- :point_down: The top 4 pinned projects are from the Data Visualization and Analytics Bootcamp at the University of Minnesota. The bottom two pinned repositories are work from the MS Analytics at Georgia Tech.
+- :point_down: The top 4 pinned projects are from the Data Visualization and Analytics Bootcamp at the University of Minnesota. The bottom two pinned repositories are the MS Analytics at Georgia Tech capstone project, and my in-progress work on the book "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow".
 
 
 <!--
