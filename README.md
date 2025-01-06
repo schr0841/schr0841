@@ -1,6 +1,6 @@
 - 👋 I'm Greg Schreiter
 - 🔭 I’m currently working on projects for medical data science and general machine learning. In 2025 I'm hoping to reproduce some results from classic ML papers, so stay tuned!
-- 🌱 The programming languages I use often are (mostly) Python, SQL (leetcode and hackerrank medium level) and ISLR-level R. I much prefer Python to R because there isn't as much bloat. 
+- 🌱 The programming languages I use often are Python, SQL and ISLR-level R. I much prefer Python to R because there isn't as much bloat. 
 - 📫 How to reach me: schreitergregory@gmail.com
 - :point_down: The top 4 pinned projects are from the Data Visualization and Analytics Bootcamp at the University of Minnesota. The bottom two pinned repositories are the Medxoom-2020 (Georgia Tech MS Analytics capstone project), and the repo for in-progress work on the book "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow".
 
