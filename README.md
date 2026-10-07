@@ -1,8 +1,8 @@
 - 👋 I'm Greg Schreiter
 - 🔭 I’m currently working on projects for medical data science and general machine learning. In 2026, I'm hoping to reproduce some results from classic ML papers, so stay tuned!
-- 🌱 I'm most familiar with Python but I also use SQL (postgres), R and Matlab regularly. Currently I'm learning Julia and Java. 
+- 🌱 I'm most familiar with Python but I also use SQL (PostgreSQL), R and Matlab. I have used JavaScript and cloud AWS tools like S3, Glue, PySpark, TerraForm and great expectations for cloud ETL tasks.
 - 📫 How to reach me: schreitergregory@gmail.com
-- :point_down: The top 4 pinned projects are from the Data Visualization and Analytics Bootcamp at the University of Minnesota (2024). You may also find the repo for the code notebooks of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" as well as my master's practicum for Medxoom. 
+- :point_down: The top 4 pinned projects are from the Data Visualization and Analytics Bootcamp at the University of Minnesota. You may also find the repo for the code notebooks of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" as well as my master's practicum for Medxoom. 
 
 
 <!--
