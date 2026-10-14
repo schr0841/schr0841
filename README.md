@@ -4,7 +4,7 @@
 - 📫 How to reach me: schreitergregory@gmail.com
 - :point_down: The top 4 pinned projects are from the Data Visualization and Analytics Bootcamp at the University of Minnesota. You may also find the repo for the code notebooks of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" as well as my master's practicum for Medxoom. 
 
-- ✨ Reseach Papers Results Reproduced: [Unet: Convolutional networks for biomedical image segmentation paper](https://github.com/schr0841/unet_app/blob/main/unet.pdf) [here](https://github.com/schr0841/unet_app/blob/main/UnetTest.ipynb).
+- ✨ Reseach Papers Results Reproduced: [Unet: Convolutional networks for biomedical image segmentation paper](https://github.com/schr0841/unet_app/blob/main/unet.pdf) [Results notebook here](https://github.com/schr0841/unet_app/blob/main/UnetTest.ipynb).
 
 <!--
 **schr0841/schr0841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
