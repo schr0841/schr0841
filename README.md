@@ -6,7 +6,7 @@
 
 - ✨ Reseach Papers Results Reproduced: 
 
-[Unet: Convolutional networks for biomedical image segmentation paper](https://github.com/schr0841/unet_app/blob/main/unet.pdf) <br> <br> [Results notebook here](https://github.com/schr0841/unet_app/blob/main/UnetTest.ipynb).
+[Unet: Convolutional networks for biomedical image segmentation paper](https://github.com/schr0841/unet_app/blob/main/unet.pdf) &nbsp; &nbsp; [Results notebook here](https://github.com/schr0841/unet_app/blob/main/UnetTest.ipynb).
 
 <!--
 **schr0841/schr0841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
