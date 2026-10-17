@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on projects for medical data science and general machine learning. My professional goal is to become a Machine Learning Engineer.
 - 🌱 I'm most familiar with Python but I also use SQL (PostgreSQL), R and Matlab regularly. I have also used JavaScript and cloud AWS tools like S3, Glue, PySpark, TerraForm and Great Expectations during the [Coursera Data Engineering certification](https://www.coursera.org/account/accomplishments/specialization/KDTFO0266NYA).
 - 📫 How to reach me: schreitergregory@gmail.com
-- :point_down: The top 4 pinned projects are from the Data Visualization and Analytics Bootcamp at the University of Minnesota. You may also find the repo for the code notebooks of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" as well as my master's practicum for Medxoom. 
+- :point_down: The top 4 pinned projects are from the Data Visualization and Analytics Bootcamp at the University of Minnesota. You may also find the repo for the code notebooks of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" as well as my synthetic school data project using SQL, Excel and Tableau. 
 
 - ✨ Reseach Papers Results Reproduced: 
 
